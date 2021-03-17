@@ -1,0 +1,49 @@
+{
+    "firstName": "Evgenii",
+    "lastName": "Mundut",
+    "adress": {
+        "city": "Jelenia Góra",
+        "postalCode": 58500
+    },
+    "phoneNumbers": [
+        "+375-29-378-86-23",
+        "+48-695-557-672"
+    ],
+    "telegram": "evgenii.mundut",
+    "GitHub": "github.com/evgeniimundut",
+    "LinkedIn": "linkedin.com/in/evgenii-mundut-344078191",
+    "Skills": {
+        "SkillsSummary": "test documentation preparing (requirements analysis, check list, test cases), bug reporting, SQL, PostgreSQL, HTML/CSS, basic knowledge of programming languages(python);",
+        "TestingSoftware": "Jira, TestRail",
+        "SoftWare": "PostgreSQL, DevTools, Postman, GitHub, Visual Studio Code, PyCharm, MS Office (MS Word, MS Excel, MS Power Point)",
+        "AnotherSkills": "Python 3.6, Web-servers, PostgreSQL, Django Framework"
+    },
+    "LanguageSkills": "Russian(native), English(B1), Polish(B1)",
+    "Education": {
+        "Institute": "Minsk Institute of Managment",
+        "Faculty ": "Faculty Accounting and Finance",
+        "Specialty": "Finance and credit",
+        "Position": "Economist",
+        "YearOfStudy": "09.2009 - 07.2013",
+        "College": "College of Entrepreneurship",
+        "Faculty": "Faculty Banking",
+        "Spec": "Banker - economist",
+        "Year": "09.2006 - 07.2009"
+    },
+    "Certifications": {
+        "SkillUp": "Basic WEB and SQL for software testing  (10.2020 - 12.2020)",
+        "SkillUp2": "Software testing course (01.2021 - 02.2021)"
+    },
+    "Professional Experience": {
+        "Platform - Test.IO": "Manual Tester",
+        "Responsibilities": "Exploratory Testing, test cases, usability testing, software testing, Quality Assurance, Crowd Testing (Test overnight & on weekends), Functional Testing, App Testing, Test Case Execution, Test Automation  and Performance",
+        "Year": "09.2020 - present"
+    },
+    "Tectus Media(Synesis Group)": "Marketing Specialist (Account manager)",
+    "Responsibilities": "•Setting up, launching, supporting RTB advertising campaigns and traffic optimization, Analysis of the campaign and collection of relevant data on the Display & Video 360 ex platform. DoubleClick, Conducting test launches of new channels and analyzing the results, Reporting campaigns results",
+    "Year": "11.2016 – 07.2020",
+    "SelfLearner": {
+        "SelfLearner": "The complete guide to Python 3: from beginner to specialist, Python: basics and application, Algorithms: theory and practice, Professional literature, docs.python.org (Python 3.5 - 3.8), Stackoverflow, Habr, YouTube;"
+    },
+    "Hobbies and interests": "Additional information:  driving license of category B, Personal characteristics: patient, dependable, polite, able to prioritize, а team player, Playing tennis, swimming."
+}
